@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tiktok/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tiktok/static/js/main.9246557a.chunk.js",
+    "main.js.map": "/tiktok/static/js/main.9246557a.chunk.js.map",
+    "runtime-main.js": "/tiktok/static/js/runtime-main.b2c217b7.js",
+    "runtime-main.js.map": "/tiktok/static/js/runtime-main.b2c217b7.js.map",
+    "static/js/2.9868d836.chunk.js": "/tiktok/static/js/2.9868d836.chunk.js",
+    "static/js/2.9868d836.chunk.js.map": "/tiktok/static/js/2.9868d836.chunk.js.map",
+    "static/js/3.80aca649.chunk.js": "/tiktok/static/js/3.80aca649.chunk.js",
+    "static/js/3.80aca649.chunk.js.map": "/tiktok/static/js/3.80aca649.chunk.js.map",
+    "index.html": "/tiktok/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tiktok/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9868d836.chunk.js.LICENSE.txt": "/tiktok/static/js/2.9868d836.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tiktok/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2c217b7.js",
+    "static/js/2.9868d836.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9246557a.chunk.js"
+  ]
+}
